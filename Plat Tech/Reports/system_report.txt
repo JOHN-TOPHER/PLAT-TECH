@@ -1,0 +1,13 @@
+========== SYSTEM REPORT ========== 
+Generated : 29/10/2026 20:19:48.38 
+Computer  : DESKTOP-U7GJLBO 
+User      : USER 
+Processor : Intel64 Family 6 Model 126 Stepping 5, GenuineIntel 
+Cores     : 8 
+OS Name:                       Microsoft Windows 11 Home Single Language
+OS Version:                    10.0.26200 N/A Build 26200
+System Type:                   x64-based PC
+Total Physical Memory:         7,957 MB
+Available Physical Memory:     860 MB
+Free disk space on C: : about 33 GB 
+Disk status: OK 
